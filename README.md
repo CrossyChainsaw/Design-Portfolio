@@ -106,13 +106,20 @@ Recentelijk niet al teveel video's geëdit.
   <img src="https://github.com/user-attachments/assets/130e1e62-ebda-49f2-ba3f-a13ac558b89e" width="24%" />
 </a>
 
-
 Video waar ik het meest trots op ben en tegelijkertijd de enige recente video. Het moet een movie trailer voorstellen waarin karakters van het spel "Brawlhalla" het tegen elkaar moeten opnemen in een soort van voetbal wedstrijd. De video is een collectie van een heleboel animaties geproduceerd door de makers van het spel "Brawlhalla". Ik heb de video's zo geknipt en geplakt en een klein beetje zelf geanimeerd zodat het lijkt also er een verhaallijn in zit. Veel inspiratie van de Anime "Inazuma Eleven" gebruikt voor de visuals en verhaallijn. Ook een beetje inspiratie van de anime "Dragon Ball". Maanden bezig geweest met de storyline, script en video editing. De aim van deze video is puur content.
 
 ## [Beating a Medium bot with code](https://www.youtube.com/watch?v=4esckiZkZu8) (Deze video is een stuk langer dan de rest)
+<a href="https://youtu.be/4esckiZkZu8">
+  <img src="https://github.com/user-attachments/assets/bc58569b-60ea-4919-8817-7e83de219023" width="24%" />
+</a>
+
 Ook een video waar ik erg trots op ben. In deze video probeer ik een bot te verslaan in de game "Brawlhalla" met enkel het gebruik van code. Ik neem de kijker mee in het proces, alle problemen waar ik tegen aan ben gelopen en oplossingen. De video bevat timelapses zonder geluid omdat ik muziek zonder toestemming had gebruikt. De aim van deze video is minder gericht op content maken en meer gericht op een cool concept delen met de community van de game.
 
 ## [Pixoul Game Trailer](https://www.youtube.com/watch?v=Ofiti1pEiOM)
+<a href="https://youtu.be/Ofiti1pEiOM">
+  <img src="https://github.com/user-attachments/assets/1ff826d5-f119-4006-8649-43338a187fd7" width="24%" />
+</a>
+
 De reden dat ik deze video in mijn portfolio heb staan is niet perse om de video te showcasen want de video zelf is niet echt interessant, maar alle elementen die je ziet in de video, elk stukje pixelart heb ik zelf gedesigned. Ook de muziek heb ik zelf gecomponeerd.
 
 ## [Happy Birthday Short](https://www.youtube.com/shorts/Jc4vXZCWEf4)
