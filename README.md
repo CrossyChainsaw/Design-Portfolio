@@ -1,11 +1,11 @@
 # Design-Portfolio
 Hierin presenteer ik allerlei dingen die ik gedesigned heb 🙂
 - [Toernooi Thumbnails](#toernooi-thumbnails)
-- [Andere Thumbnails]
+- [Andere Thumbnails](#andere-thumbnails)
 - [Overige Graphics]
 - [Video Editing]
 
-# Toernooi Thumbails
+# Toernooi Thumbnails
 Ik heb voornamelijk thumbnails gedesigned voor toernooien de afgelopen 3 jaar. Ik heb er ongeveer 180 gedesigned in de afgelopen 3 jaar. Hier zijn een paar voorbeelden
 
 <img src="https://github.com/user-attachments/assets/b12b507c-b5e1-461d-9e82-25c97f34d397" width="24%" />
@@ -33,4 +33,25 @@ Ik heb voornamelijk thumbnails gedesigned voor toernooien de afgelopen 3 jaar. I
 <img src="https://github.com/user-attachments/assets/ea667dec-7f9a-444e-89f2-d40684bbd6d7" width="24%" />
 <img src="https://github.com/user-attachments/assets/2b162af4-b582-43b6-8d71-b99e8c3b9dcc" width="24%" />
 
+# Andere Thumbnails
+Andere thumnails die ik gedesigned heb. Deze rangen van serieus tot expres niet serieus.
 
+<img src="https://github.com/user-attachments/assets/28f033d3-52da-46dc-a567-5c2edc405e93" width="24%" />
+<img src="https://github.com/user-attachments/assets/130e1e62-ebda-49f2-ba3f-a13ac558b89e" width="24%" />
+<img src="https://github.com/user-attachments/assets/21ba231b-2804-4f38-9bb5-8f36f1999ead" width="24%" />
+<img src="https://github.com/user-attachments/assets/a62b6b44-482a-4d03-b8dc-217495f7af0e" width="24%" />
+
+<img src="https://github.com/user-attachments/assets/2e903a3d-c91d-4962-932e-8abe08866cc7" width="24%" />
+<img src="https://github.com/user-attachments/assets/805edc28-59ca-4235-ad15-6a6568d010e1" width="24%" />
+<img src="https://github.com/user-attachments/assets/c718b092-3c90-444d-ad50-85141833e3ac" width="24%" />
+<img src="https://github.com/user-attachments/assets/d61549db-e30d-44e8-b75f-150b879680e2" width="24%" />
+
+<img src="https://github.com/user-attachments/assets/bec3f3b8-9eee-4d1c-ba43-fbf9138d9bbe" width="24%" />
+<img src="https://github.com/user-attachments/assets/a358e29d-1a77-4408-91a1-f8184741459a" width="24%" />
+<img src="https://github.com/user-attachments/assets/237b40c6-d44c-465b-bf92-554923cd7f67" width="24%" />
+<img src="https://github.com/user-attachments/assets/129bb165-7d2a-4adf-84ac-f02bb058a770" width="24%" />
+
+<img src="https://github.com/user-attachments/assets/01e409ea-893a-4935-af34-3596b070f6c5" width="24%" />
+<img src="https://github.com/user-attachments/assets/f2537f71-5ce2-4799-94be-97a50a912de0" width="24%" />
+<img src="https://github.com/user-attachments/assets/0c7c04e8-c303-4663-b07b-d6c61ff159fe" width="24%" />
+<img src="https://github.com/user-attachments/assets/fba362b3-802f-48ac-9e52-2b46209ce4a9" width="24%" />
