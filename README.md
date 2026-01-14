@@ -9,7 +9,7 @@ Hierin presenteer ik allerlei dingen die ik gedesigned heb 🙂. Ik ben al meer 
 - [Geometry Dash Level Design](#geometry-dash-level-design)
 
 # Toernooi Thumbnails
-Ik heb voornamelijk thumbnails gedesigned voor toernooien de afgelopen 3 jaar. Ik heb er ongeveer 180 gedesigned in de afgelopen 3 jaar. Hier zijn een paar voorbeelden
+Ik heb voornamelijk thumbnails gedesigned voor toernooien de afgelopen 3 jaar. Ik heb er ongeveer 180 gedesigned. Hier zijn een paar voorbeelden
 
 <img src="https://github.com/user-attachments/assets/b12b507c-b5e1-461d-9e82-25c97f34d397" width="24%" />
 <img src="https://github.com/user-attachments/assets/3b62639f-2d35-4ece-a790-cae678e55c72" width="24%" />
