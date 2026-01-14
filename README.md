@@ -1,5 +1,5 @@
 # Design Portfolio
-Hierin presenteer ik allerlei dingen die ik gedesigned heb 🙂. Ik ben al meer dan 10 jaar bezig met video editen, photo shoppen en levels designen. Mijn portfolio bevat echter voornamelijk content van de afgelopen 5 jaar aangezien alles wat ik voor de 5 jaar heb gemaakt nou eenmaal minder is.
+Hierin presenteer ik allerlei dingen die ik gedesigned heb 🙂. Ik ben al meer dan 10 jaar bezig met video editing, photoshopping en levels design. Mijn portfolio bevat echter voornamelijk content van de afgelopen 5 jaar aangezien alles wat ik voor die 5 jaar heb gemaakt nou eenmaal minder is.
 
 - [Toernooi Thumbnails](#toernooi-thumbnails)
 - [Andere Thumbnails](#andere-thumbnails)
