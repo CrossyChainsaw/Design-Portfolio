@@ -1,6 +1,6 @@
 # Design-Portfolio
 Hierin presenteer ik allerlei dingen die ik gedesigned heb 🙂
-- ![Toernooi Thumbnails](#toernooi-thumbnail)
+- [Toernooi Thumbnails](#toernooi-thumbnails)
 - [Andere Thumbnails]
 - [Overige Graphics]
 - [Video Editing]
