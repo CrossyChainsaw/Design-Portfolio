@@ -99,7 +99,7 @@ Giveaway plaatje voor Twitter
 <img width="2048" height="1151" alt="FjIkahBXoAIWsN7" src="https://github.com/user-attachments/assets/6d43ade9-c0ed-4885-8d04-8fa381188ddd" />
 
 # Video Editing
-Recentelijk niet al teveel video's geëdit.
+Recentelijk niet al teveel video's geëdit. Je kunt op de video titels klikken om de videos te bekijken op YouTube
 
 ## [The Last Kungfoot Match](https://youtu.be/CpZiwpcHlfg) 
 <a href="https://youtu.be/CpZiwpcHlfg">
