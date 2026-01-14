@@ -3,8 +3,8 @@ Hierin presenteer ik allerlei dingen die ik gedesigned heb 🙂
 - [Toernooi Thumbnails](#toernooi-thumbnails)
 - [Andere Thumbnails](#andere-thumbnails)
 - [Toernooi Placement Graphics](#toernooi-placement-graphics)
-- [Overige Graphics]
-- [Video Editing]
+- [Overige Graphics](#overige-graphics)
+- [Video Editing](#video-editing)
 
 # Toernooi Thumbnails
 Ik heb voornamelijk thumbnails gedesigned voor toernooien de afgelopen 3 jaar. Ik heb er ongeveer 180 gedesigned in de afgelopen 3 jaar. Hier zijn een paar voorbeelden
@@ -81,8 +81,46 @@ In deze designs prijs ik spelers die erg goed gespeeld hebben in toernooien, voo
 
 # Overige Graphics
 Een design voor mijn meest succesvolle discord bot waarbij elk plaatje op de achtergrond een klant representeert.
+
 <img width="4144" height="1783" alt="448854125-73ee3db9-370b-4c6f-8ccf-a1acd4e7cfc9" src="https://github.com/user-attachments/assets/44fd5377-5006-43ee-bc8d-23314244671f" />
 
+Logo van "Dutch Brawl Community" YouTube kanaal. Dit logo is deels gegenereerd met AI. Ik heb wel zelf de letters verbeterd en andere kleine kwaaltjes van AI opgelost.
 
+![xu1Tk0j9_400x400](https://github.com/user-attachments/assets/713fdbf3-9765-4a0c-9bde-16ef797267cc)
+
+Banner van "Dutch Brawl Community" YouTube kanaal.
+
+<img width="1080" height="360" alt="1080x360" src="https://github.com/user-attachments/assets/ffdd181c-35f9-46fb-be4d-6e1a59167347" />
+
+Giveaway plaatje voor Twitter
+
+<img width="2048" height="1151" alt="FjIkahBXoAIWsN7" src="https://github.com/user-attachments/assets/6d43ade9-c0ed-4885-8d04-8fa381188ddd" />
+
+# Video Editing
+Recentelijk niet veel video's geëdit.
+
+## [The Last Kungfoot Match](https://youtu.be/CpZiwpcHlfg) 
+Video waar ik het meest trots op ben en tegelijkertijd de enige recente video. Het moet een movie trailer voorstellen waarin karakters van het spel "Brawlhalla" het tegen elkaar moeten opnemen in een soort van voetbal wedstrijd. De video is een collectie van een heleboel animaties geproduceerd door de makers van het spel "Brawlhalla". Ik heb de video's zo geknipt en geplakt en een klein beetje zelf geanimeerd zodat het lijkt also er een verhaallijn in zit. Veel inspiratie van de Anime "Inazuma Eleven" gebruikt voor de visuals en verhaallijn. Ook een beetje inspiratie van de anime "Dragon Ball". Maanden bezig geweest met de storyline, script en video editing. De aim van deze video is puur content.
+
+## [Beating a Medium bot with code](https://www.youtube.com/watch?v=4esckiZkZu8) (Deze video is een stuk langer dan de rest)
+Ook een video waar ik erg trots op ben. In deze video probeer ik een bot te verslaan in de game "Brawlhalla" met enkel het gebruik van code. Ik neem de kijker mee in het proces, alle problemen waar ik tegen aan ben gelopen en oplossingen. De video bevat timelapses zonder geluid omdat ik muziek zonder toestemming had gebruikt. De aim van deze video is minder gericht op content maken en meer gericht op een cool concept delen met de community van de game.
+
+## [Pixoul Game Trailer](https://www.youtube.com/watch?v=Ofiti1pEiOM)
+De reden dat ik deze video in mijn portfolio heb staan is niet perse om de video te showcasen want de video zelf is niet echt interessant, maar alle elementen die je ziet in de video, elk stukje pixelart heb ik zelf gedesigned. Ook de muziek heb ik zelf gecomponeerd.
+
+## [Happy Birthday Short](https://www.youtube.com/shorts/Jc4vXZCWEf4)
+Ziet er makkelijker uit dan het was. Heb voor deze video de game moeten aanpassen om mijn spelachtergrond te vervangen met een greenscreen. De rest is vanzelf sprekend. Simpele video, mooi uitgewerkt.
+
+## [Clip uit een toernooi dat ik heb georganisserd](https://www.youtube.com/shorts/oUfstSF28kU)
+Er gebeurde iets tijdens het toernooi wat al erg lang werd opgehyped. Besloten er een clip van te maken.
+
+## [Poging op een "Viral Short"](https://www.youtube.com/shorts/BLOlqanlJA4)
+Ook weer gamefiles aangepast om een greenscreen te krijgen in de game om meer vrijheid te creëeren voor het video editen.
+
+## [Nog een Poging op een "Viral Short"](https://www.youtube.com/shorts/6hFpbF3AZkU)
+Geen commentaar
+
+## [Nog een poging op een "Viral Short"](https://www.youtube.com/shorts/fLnlhywcFcg)
+Deze video demonstreert Planar tracking
 
 
