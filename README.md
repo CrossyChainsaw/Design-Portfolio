@@ -2,6 +2,7 @@
 Hierin presenteer ik allerlei dingen die ik gedesigned heb 🙂
 - [Toernooi Thumbnails](#toernooi-thumbnails)
 - [Andere Thumbnails](#andere-thumbnails)
+- [Toernooi Placement Graphics](#toernooi-placement-graphics)
 - [Overige Graphics]
 - [Video Editing]
 
@@ -34,7 +35,7 @@ Ik heb voornamelijk thumbnails gedesigned voor toernooien de afgelopen 3 jaar. I
 <img src="https://github.com/user-attachments/assets/2b162af4-b582-43b6-8d71-b99e8c3b9dcc" width="24%" />
 
 # Andere Thumbnails
-Andere thumnails die ik gedesigned heb. Deze rangen van serieus tot expres niet serieus.
+Andere thumbnails die ik gedesigned heb. Deze rangen van serieus tot expres niet serieus.
 
 <img src="https://github.com/user-attachments/assets/28f033d3-52da-46dc-a567-5c2edc405e93" width="24%" />
 <img src="https://github.com/user-attachments/assets/130e1e62-ebda-49f2-ba3f-a13ac558b89e" width="24%" />
@@ -55,3 +56,33 @@ Andere thumnails die ik gedesigned heb. Deze rangen van serieus tot expres niet 
 <img src="https://github.com/user-attachments/assets/f2537f71-5ce2-4799-94be-97a50a912de0" width="24%" />
 <img src="https://github.com/user-attachments/assets/0c7c04e8-c303-4663-b07b-d6c61ff159fe" width="24%" />
 <img src="https://github.com/user-attachments/assets/fba362b3-802f-48ac-9e52-2b46209ce4a9" width="24%" />
+
+# Toernooi Placement Graphics
+In deze designs prijs ik spelers die erg goed gespeeld hebben in toernooien, voornamelijk voor X (Voormalig Twitter).
+
+<img src="https://github.com/user-attachments/assets/d89c5dcf-08e3-4350-88a2-ec2aa5973437" width="24%" />
+<img src="https://github.com/user-attachments/assets/7a60255d-dd1f-4c5a-8da1-19cdf5a351a9" width="24%" />
+<img src="https://github.com/user-attachments/assets/d680548c-6d25-4685-9fa3-fe3750746ce5" width="24%" />
+<img src="https://github.com/user-attachments/assets/93fc1efb-a210-4367-95bd-3de56f6f09ee" width="24%" />
+
+<img src="https://github.com/user-attachments/assets/e5991821-bb21-4bd1-8013-84de4973ad0d" width="24%" />
+<img src="https://github.com/user-attachments/assets/f02aec11-d25a-4cf1-8551-4cc1b2dee391" width="24%" />
+<img src="https://github.com/user-attachments/assets/1c223fff-9260-41d4-ac36-38141a5d25d5" width="24%" />
+<img src="https://github.com/user-attachments/assets/115adddc-0191-4900-bdf9-cfb1ec3cbac7" width="24%" />
+
+<img src="https://github.com/user-attachments/assets/94956986-b5c0-41eb-8a2a-b022aa3b5046" width="24%" />
+<img src="https://github.com/user-attachments/assets/dcf1501f-f78d-476f-b2ee-93bd0721e361" width="24%" />
+<img src="https://github.com/user-attachments/assets/3fb16ef2-5915-4b37-baee-581b03f7b781" width="24%" />
+<img src="https://github.com/user-attachments/assets/b0eee4db-5725-406f-8b35-c050b5385b57" width="24%" />
+
+<img src="https://github.com/user-attachments/assets/730c2a8e-c804-4ba6-b8db-d9bc368c66df" width="24%" />
+<img src="https://github.com/user-attachments/assets/158eba94-60d0-4f66-9ff8-48d22731f581" width="24%" />
+<img src="https://github.com/user-attachments/assets/85dc9b01-0c72-4c6f-b534-0acc0954d537" width="24%" />
+
+# Overige Graphics
+Een design voor mijn meest succesvolle discord bot waarbij elk plaatje op de achtergrond een klant representeert.
+<img width="4144" height="1783" alt="448854125-73ee3db9-370b-4c6f-8ccf-a1acd4e7cfc9" src="https://github.com/user-attachments/assets/44fd5377-5006-43ee-bc8d-23314244671f" />
+
+
+
+
