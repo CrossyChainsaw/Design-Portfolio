@@ -1,10 +1,12 @@
 # Design-Portfolio
-Hierin presenteer ik allerlei dingen die ik gedesigned heb 🙂
+Hierin presenteer ik allerlei dingen die ik gedesigned heb 🙂. Ik ben al meer dan 10 jaar bezig met video editen, photo shoppen en levels designen. Maar mijn portfolio bevat voornamelijk content van de afgelopen 5 jaar. Aangezien alles wat ik voor de 5 jaar heb gemaakt nou eenmaal minder is.
+
 - [Toernooi Thumbnails](#toernooi-thumbnails)
 - [Andere Thumbnails](#andere-thumbnails)
 - [Toernooi Placement Graphics](#toernooi-placement-graphics)
 - [Overige Graphics](#overige-graphics)
 - [Video Editing](#video-editing)
+- [Geometry Dash Level Design](#geometry-dash-level-design)
 
 # Toernooi Thumbnails
 Ik heb voornamelijk thumbnails gedesigned voor toernooien de afgelopen 3 jaar. Ik heb er ongeveer 180 gedesigned in de afgelopen 3 jaar. Hier zijn een paar voorbeelden
@@ -97,7 +99,7 @@ Giveaway plaatje voor Twitter
 <img width="2048" height="1151" alt="FjIkahBXoAIWsN7" src="https://github.com/user-attachments/assets/6d43ade9-c0ed-4885-8d04-8fa381188ddd" />
 
 # Video Editing
-Recentelijk niet veel video's geëdit.
+Recentelijk niet al teveel video's geëdit.
 
 ## [The Last Kungfoot Match](https://youtu.be/CpZiwpcHlfg) 
 Video waar ik het meest trots op ben en tegelijkertijd de enige recente video. Het moet een movie trailer voorstellen waarin karakters van het spel "Brawlhalla" het tegen elkaar moeten opnemen in een soort van voetbal wedstrijd. De video is een collectie van een heleboel animaties geproduceerd door de makers van het spel "Brawlhalla". Ik heb de video's zo geknipt en geplakt en een klein beetje zelf geanimeerd zodat het lijkt also er een verhaallijn in zit. Veel inspiratie van de Anime "Inazuma Eleven" gebruikt voor de visuals en verhaallijn. Ook een beetje inspiratie van de anime "Dragon Ball". Maanden bezig geweest met de storyline, script en video editing. De aim van deze video is puur content.
@@ -123,4 +125,12 @@ Geen commentaar
 ## [Nog een poging op een "Viral Short"](https://www.youtube.com/shorts/fLnlhywcFcg)
 Deze video demonstreert Planar tracking
 
+# Geometry Dash Level Design
+Geometry Dash is een spel waarin je levels kunt bouwen. Een level bouwen in Geometry Dash scheelt in princiepe niet veel van een video editen aangezien je dezelfde elementen kunt gebruiken in Geometry Dash als in Video Edit Software.
+
+## [Geometry Dash Level - Shades](https://youtu.be/T_DjNvO6ZRk)
+Deze level kostte me maanden om te maken ook
+
+## [Geometry Dash Level - Puzzle Dungeon](https://www.youtube.com/watch?v=ifQBRxOlyIA)
+Deze heeft weer problemen met audio door YouTube
 
