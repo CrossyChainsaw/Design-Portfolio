@@ -108,41 +108,11 @@ Recentelijk niet al teveel video's geëdit. Je kunt op de video titels klikken o
 
 Video waar ik het meest trots op ben en tegelijkertijd de enige recente video. Het moet een movie trailer voorstellen waarin karakters van het spel "Brawlhalla" het tegen elkaar moeten opnemen in een soort van voetbal wedstrijd. De video is een collectie van een heleboel animaties geproduceerd door de makers van het spel "Brawlhalla". Ik heb de video's zo geknipt en geplakt en een klein beetje zelf geanimeerd zodat het lijkt also er een verhaallijn in zit. Veel inspiratie van de Anime "Inazuma Eleven" gebruikt voor de visuals en verhaallijn. Ook een beetje inspiratie van de anime "Dragon Ball". Maanden bezig geweest met de storyline, script en video editing. De aim van deze video is puur content.
 
-## [Beating a Medium bot with code](https://www.youtube.com/watch?v=4esckiZkZu8) (Deze video is een stuk langer dan de rest)
-<a href="https://youtu.be/4esckiZkZu8">
-  <img src="https://github.com/user-attachments/assets/bc58569b-60ea-4919-8817-7e83de219023" width="24%" />
-</a>
-
-Ook een video waar ik erg trots op ben. In deze video probeer ik een bot te verslaan in de game "Brawlhalla" met enkel het gebruik van code. Ik neem de kijker mee in het proces, alle problemen waar ik tegen aan ben gelopen en oplossingen. De video bevat timelapses zonder geluid omdat ik muziek zonder toestemming had gebruikt. De aim van deze video is minder gericht op content maken en meer gericht op een cool concept delen met de community van de game.
-
-## [Pixoul Game Trailer](https://www.youtube.com/watch?v=Ofiti1pEiOM)
-<a href="https://youtu.be/Ofiti1pEiOM">
-  <img src="https://github.com/user-attachments/assets/1ff826d5-f119-4006-8649-43338a187fd7" width="24%" />
-</a>
-
-De reden dat ik deze video in mijn portfolio heb staan is niet perse om de video te showcasen want de video zelf is niet echt interessant, maar alle elementen die je ziet in de video, elk stukje pixelart heb ik zelf gedesigned. Ook de muziek heb ik zelf gecomponeerd.
-
 ## [Happy Birthday Short](https://www.youtube.com/shorts/Jc4vXZCWEf4)
 Ziet er makkelijker uit dan het was. Heb voor deze video de game moeten aanpassen om mijn spelachtergrond te vervangen met een greenscreen. De rest is vanzelf sprekend. Simpele video, mooi uitgewerkt.
-
-## [Clip uit een toernooi dat ik heb georganisserd](https://www.youtube.com/shorts/oUfstSF28kU)
-Er gebeurde iets tijdens het toernooi wat al erg lang werd opgehyped. Besloten er een clip van te maken.
-
-## [Poging op een "Viral Short"](https://www.youtube.com/shorts/BLOlqanlJA4)
-Ook weer gamefiles aangepast om een greenscreen te krijgen in de game om meer vrijheid te creëeren voor het video editen.
-
-## [Nog een Poging op een "Viral Short"](https://www.youtube.com/shorts/6hFpbF3AZkU)
-Geen commentaar
-
-## [Nog een poging op een "Viral Short"](https://www.youtube.com/shorts/fLnlhywcFcg)
-Deze video demonstreert Planar tracking
 
 # Geometry Dash Level Design
 Geometry Dash is een spel waarin je levels kunt bouwen. Een level bouwen in Geometry Dash scheelt in princiepe niet veel van een video editen aangezien je dezelfde elementen kunt gebruiken in Geometry Dash als in Video Edit Software.
 
 ## [Geometry Dash Level - Shades](https://youtu.be/T_DjNvO6ZRk)
 Deze level kostte me maanden om te maken ook
-
-## [Geometry Dash Level - Puzzle Dungeon](https://www.youtube.com/watch?v=ifQBRxOlyIA)
-Deze heeft weer problemen met audio door YouTube
-
