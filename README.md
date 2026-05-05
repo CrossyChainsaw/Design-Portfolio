@@ -6,7 +6,6 @@ Hierin presenteer ik allerlei dingen die ik gedesigned heb 🙂. Ik ben al meer 
 - [Toernooi Placement Graphics](#toernooi-placement-graphics)
 - [Overige Graphics](#overige-graphics)
 - [Video Editing](#video-editing)
-- [Geometry Dash Level Design](#geometry-dash-level-design)
 
 # Toernooi Thumbnails
 Ik heb voornamelijk thumbnails gedesigned voor toernooien de afgelopen 3 jaar. Ik heb er ongeveer 180 gedesigned. Hier zijn een paar voorbeelden
@@ -110,9 +109,3 @@ Video waar ik het meest trots op ben en tegelijkertijd de enige recente video. H
 
 ## [Happy Birthday Short](https://www.youtube.com/shorts/Jc4vXZCWEf4)
 Ziet er makkelijker uit dan het was. Heb voor deze video de game moeten aanpassen om mijn spelachtergrond te vervangen met een greenscreen. De rest is vanzelf sprekend. Simpele video, mooi uitgewerkt.
-
-# Geometry Dash Level Design
-Geometry Dash is een spel waarin je levels kunt bouwen. Een level bouwen in Geometry Dash scheelt in princiepe niet veel van een video editen aangezien je dezelfde elementen kunt gebruiken in Geometry Dash als in Video Edit Software.
-
-## [Geometry Dash Level - Shades](https://youtu.be/T_DjNvO6ZRk)
-Deze level kostte me maanden om te maken ook
