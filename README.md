@@ -106,6 +106,3 @@ Recentelijk niet al teveel video's geëdit. Je kunt op de video titels klikken o
 </a>
 
 Video waar ik het meest trots op ben en tegelijkertijd de enige recente video. Het moet een movie trailer voorstellen waarin karakters van het spel "Brawlhalla" het tegen elkaar moeten opnemen in een soort van voetbal wedstrijd. De video is een collectie van een heleboel animaties geproduceerd door de makers van het spel "Brawlhalla". Ik heb de video's zo geknipt en geplakt en een klein beetje zelf geanimeerd zodat het lijkt also er een verhaallijn in zit. Veel inspiratie van de Anime "Inazuma Eleven" gebruikt voor de visuals en verhaallijn. Ook een beetje inspiratie van de anime "Dragon Ball". Maanden bezig geweest met de storyline, script en video editing. De aim van deze video is puur content.
-
-## [Happy Birthday Short](https://www.youtube.com/shorts/Jc4vXZCWEf4)
-Ziet er makkelijker uit dan het was. Heb voor deze video de game moeten aanpassen om mijn spelachtergrond te vervangen met een greenscreen. De rest is vanzelf sprekend. Simpele video, mooi uitgewerkt.
